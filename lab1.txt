@@ -1,1 +1,27 @@
-lab1
+#include <stdio.h>
+#define M_PI 3.1415
+
+int a = 10;
+double b = 12.5;
+//int c = -20;
+unsigned int c = 1000;
+char d ='A'//65
+char name[]= "kong";
+
+int main(){
+    //a = a+d;
+    //int ch = 'A'+10;
+    //printf("a = %05d,b = %lf\n,",a,b);
+    //printf("c = %-10u,d=%c",c,d);
+    //printf("ch = %d",ch);
+
+
+    //int e = 1.0/2;//0
+    //float r = 1/2.0; //0
+    //printf("e = %d",r = %f,e,r);
+
+    //int t = 9%20;
+    //printf("t = %d",t);
+
+    printf("naum = %s",name);
+}
